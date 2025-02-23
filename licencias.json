@@ -1,5 +1,3 @@
 {
-  "ABC123": "valido",
-  "XYZ789": "invalido",
-  "LMN456": "valido"
+  "licencias": ["ABC123", "XYZ456"]
 }
